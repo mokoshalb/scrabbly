@@ -1,4 +1,5 @@
-# scrabbly
+# SCRABBLY
+<hr>
 <p>Scrabbly Word Finder is a cheat tool that helps you wipe out the competition by suggesting words combinations for a scrabble game. It helps you find the best scoring words for scrabble, words with friends and other similar word games like Jumble words, Anagrammer, Wordscraper and so.</p>
 
 <p>You simply type in the letters of your tiles and the system will generate for you you all the possible words you can make from the letters in your hand with the points you will likely get from it. Scrabbly Word Finder tool unscrambles your letters, searches our Scrabble dictionary for words that matches and gives them to you sorted by alphabet or point value.
