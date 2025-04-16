@@ -15,7 +15,7 @@ require "config.php";
         <link rel="stylesheet" href="assets/css/font-awesome.min.css">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300" type="text/css">
         <link rel="stylesheet" href="assets/css/dataTables.bootstrap4.min.css" type="text/css">
-        <script src="assets/js/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
         <script src="assets/js/jquery-ui.min.js"></script>
         <script src="assets/js/jquery.wizard.js"></script>
     </head>
